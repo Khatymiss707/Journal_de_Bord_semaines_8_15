@@ -2,10 +2,12 @@
 ## Rétrospective de la présentation 2
 
 ### Points forts
-Nommer deux points forts de votre présentation. 
+-Sujet unique et hors du commun (comparé à toutes les présentations sur Photoshop)
+-Interaction et dialogue quand même dynamique (je trouve) 
 
 ### Points à améliorer
-Nommer deux points à améliorer de votre présentation et expliquer comment vous allez les travailler pour les prochaines présentations. 
+Je trouve que j'aurais pu mieux m'organiser dans mes fichiers pour apporter une présentation un peu plus propre et fluide, il aurait pu avoir des meilleures transitions et enfin je trouve que j'ai dit "uhhhh" un peu trop souvent. 
 
 ### Présentation préférée
-Quelle présentation avez-vous préféré et pourquoi? 
+J'ai bien aimé la présentation de Sitmonterna parce que je trouve qu'elle parle bien et qu'elle a choisi un logiciel plus original que les autres.
+Aussi celle de Micheal parce qu'il a parlé de l'animation, quelque chose qui m'intéresse énormément et il l'explique bien. 
