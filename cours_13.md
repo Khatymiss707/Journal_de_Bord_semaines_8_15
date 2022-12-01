@@ -2,6 +2,7 @@
 ## Création de scénarimage
 Créer un scénarimage pour votre présentation 3 et le joindre ici: 
 
-(![image] "C:\Users\khaly\OneDrive\Bureau\Storyboard case uncovered 2022-12-01 01.30.03 (1).zip")
+(![image] 
+[Storyboard case uncovered 2022-12-01 01.30.03 (1).pdf](https://github.com/Khatymiss707/Journal_de_Bord_semaines_8_15/files/10136124/Storyboard.case.uncovered.2022-12-01.01.30.03.1.pdf)
 
 
