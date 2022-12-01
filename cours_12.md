@@ -42,8 +42,7 @@ Brainstorm produit
 -Installation interactive numérique dans café
 -Orchestre
 -Figurines interactive implimentées
-
-Pojets finales
+Projets finales
 -VR
 -Jeux vidéo RPG/rythme
 -Installation interactivité (café)
@@ -64,7 +63,6 @@ Brainstorm thématique
 -Drama
 -Comédique
 -Isekai
-
 Idées finale
 -Fantastique/Medieval
 -Thriller/mystery/drama
