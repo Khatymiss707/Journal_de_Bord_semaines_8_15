@@ -1,21 +1,17 @@
 # Cours 14
-## Plan de la présentation 3
-Durée: 8 à 10 minutes
 
 ### Résumer votre projet en une phrase
-Résumer le projet en une phrase concise.   
+Une fusion entre les animes et les jeux vidéos, une anime intéractif. 
 
 ### Description du projet 
-Décrivez les grandes lignes de votre projet. 
+En gros, notre projet consiste d'apporter une histoire narrative en forme d'un jeu qui laisse le visionneur choisirs les actions du personnage principal et le laisse résoudre des casse-têtes et mystères eux même. C'est un projet qui vient chercher en public cible qui ne sont pas trop bons en gameplay de jeux vidéos, mais qui veulent avoir une expérience immersive.  
 
 ### Schéma du projet ou scénarimage
-Expliquer le déroulement de votre expérience grâce à un schéma narratif ou à un scénarimage. 
+
 
 ### Moodboard
 Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
-
-### Technologies
-Décrivez quelles seront les technologies utilisées dans votre projet. 
-
+ 
 ### Tâches
-Quelles sont les tâches nécessaires à la réalisation de votre projet? 
+Gestionnaire de projet, Écriture du script, Conception d’art, Ingénieur de logiciel, Programmation, Modélisation 3D, Animation 2D, Création musique, Création effet sonore, Testeurs
+
